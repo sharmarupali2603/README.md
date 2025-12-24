@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Katiyar</h1>
+<h1 align="center">Hi 👋, I'm Rupali Sharma </h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="center" src="https://user-images.githubusercontent.com/46772783/106396112-fc0cca00-642b-11eb-8198-c75c60280a4f.gif" width"1200px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkat18&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkat18" /> </p>
